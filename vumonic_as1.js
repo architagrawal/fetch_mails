@@ -6,8 +6,8 @@ let jsonVariable = []
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
 
 const imapConfig = {
-  user: 'architagrawal000@gmail.com',
-  password: 'ibqhthdctxwvwodc',
+  user: '',
+  password: '',
   host: 'imap.gmail.com',
   port: 993,
   tls: true
